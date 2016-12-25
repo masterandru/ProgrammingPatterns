@@ -1,4 +1,5 @@
-package Observer;
+package Observer.Suleymanov;
+
 
 import java.util.ArrayList;
 import java.util.List;

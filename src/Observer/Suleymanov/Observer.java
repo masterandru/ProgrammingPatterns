@@ -1,5 +1,5 @@
 /* user 25.12.2016 */
-package Observer;
+package Observer.Suleymanov;
 
 import java.util.List;
 

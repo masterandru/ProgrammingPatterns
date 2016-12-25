@@ -1,4 +1,6 @@
-package Observer;
+package Observer.Suleymanov;
+
+
 
 public class JobSearch {
     public static void main(String[] args) {

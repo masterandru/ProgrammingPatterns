@@ -1,4 +1,4 @@
-package Observer;
+package Observer.Suleymanov;
 
 import java.util.List;
 
